@@ -1,0 +1,39 @@
+#header img{
+    width: 100px;
+}
+#header{
+    background-color: aqua;
+    font-family: 'Girassol', cursive;
+    top:0;
+}
+.mini_result{
+    color:darkred;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+}
+.div{
+    background-color: white;
+    width:500px;
+    padding-left: 15px;
+    box-shadow: 5px 5px 18px;
+    margin: 25px;
+    
+}
+#img2{
+    width: 300px;
+}
+#img3{
+    width: 400px;
+}
+#last_div{
+    margin-bottom: 50px;
+}
+.copyright_footer{
+    position: fixed;
+    color: #6c757d;
+    background-color: oldlace;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
