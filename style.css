@@ -37,3 +37,11 @@
     text-align: center;
     line-height: 3;
 }
+.mini-result{
+    background-color: lightgrey;
+    padding: 5px;
+    border-radius: 10px;
+}
+.mini-result h4{
+    font-size: medium;
+}
