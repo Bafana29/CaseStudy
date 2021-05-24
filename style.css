@@ -27,6 +27,7 @@
 }
 #last_div{
     margin-bottom: 50px;
+    background-color: lightcoral;
 }
 .copyright_footer{
     position: fixed;
@@ -44,4 +45,11 @@
 }
 .mini-result h4{
     font-size: medium;
+}
+#result{
+    margin-bottom: 100px;
+    background-color: aqua;
+}
+#result{
+    color: darkblue;
 }
